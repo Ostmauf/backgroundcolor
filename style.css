@@ -6,6 +6,7 @@
     align-items: center;
     text-align: center;
     background-color: 255, 255, 255;
+    flex-direction: column;
 }
 
 span {
@@ -15,4 +16,12 @@ span {
 input {
     width: 70px;
     font-size: xx-large;
+}
+
+button {
+    width: 150px;
+    height: 50px;
+    font-size: large;
+    font-weight: 600;
+    margin-top: 1rem;
 }
